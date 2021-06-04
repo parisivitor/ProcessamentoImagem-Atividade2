@@ -1,0 +1,8 @@
+/build/
+/dist/
+nbproject/
+.dep.inc
+/img/
+Makefile
+teste.exe
+teste.exe.stackdump
